@@ -2,10 +2,14 @@
 
 ## My fork of dwm, patched and configured for my needs
 
-### Additional requirements
-* (Hack)[https://sourcefoundry.com/hack/]
+The colors I use are based on the [SMYCK color scheme](color.smyck.org)
 
-## Original readme from (suckless.org)[https://suckless.org/dwm]
+### Additional requirements
+* [Hack](https://sourcefoundry.com/hack/) font
+
+### Patches
+
+## Original README from [suckless.org](https://suckless.org/dwm)
 
 ```
 dwm - dynamic window manager
